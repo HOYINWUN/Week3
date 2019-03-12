@@ -8,7 +8,7 @@ font-family: 'Patua One', cursive;
         background: url('./Background.png') no-repeat top/contain;
         bottom: 0;
         padding: .5em;
-        position: fixed;
+        position: left;
         right: 0;
         text-align: right;
         top: 0;
