@@ -1,1 +1,15 @@
+body {
+  background-color: rgb(255,255,255);
+}
+@import url('https://fonts.googleapis.com/css?family=Patua+One');* {
+font-family: 'Patua One', cursive;
+}
+#navbar, #banner, #main, {
+background-color: rgb(056,211,159);
+max-width: 30em;
+width: 100%;
+}
+#botred{
+background-color: rgb(255,101,132);
+}
 
