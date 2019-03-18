@@ -6,7 +6,7 @@ font-family: 'Patua One', cursive;
 }
 #reference {
   background: url('./Background.png') no-repeat top/contain;
-  background-position: left top
+  background-position: left top;
         bottom: 0;
         padding: .5em;
         position: fixed;
