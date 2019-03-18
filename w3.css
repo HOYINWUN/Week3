@@ -1,26 +1,28 @@
 body {
-  background-color: rgb(255,255,255);
-}
-@import url('https://fonts.googleapis.com/css?family=Patua+One');* {
-font-family: 'Patua One', cursive;
-}
-#reference {
-  background: url('./Background.png') no-repeat top/contain;
-  background-position: right top;
-        bottom: 0;
-        padding: .5em;
-        position: fixed;
-        right: 0;
-        text-align: right;
-        top: 0;
-        width: 40vw;
-      }
-#navbar, #banner, #main, {
-background-color: rgb(056,211,159);
-max-width: 30em;
-width: 100%;
-}
-#botred{
-background-color: rgb(255,101,132);
+	background-color: rgb(255,255,255);
 }
 
+@import url('https://fonts.googleapis.com/css?family=Patua+One');* {
+	font-family: 'Patua One', cursive;
+}
+
+#reference {
+	background: url('./Background.png') no-repeat top/contain;
+	background-position: left top;
+	bottom: 0;
+	padding: .5em;
+	position: fixed;
+	left: 0;
+    text-align: left;
+	top: 0;
+	width: 40vw;
+}
+
+#navbar, #banner, #main, {
+	background-color: rgb(056,211,159);
+	max-width: 30em;
+	width: 100%;
+}
+#botred{
+	background-color: rgb(255,101,132);
+}
